@@ -1,0 +1,15 @@
+# Data Acquisition
+yfinance
+
+# Data Manipulation
+pandas
+numpy
+
+# Visualization
+matplotlib
+
+# Machine Learning & Preprocessing
+scikit-learn
+
+# Deep Learning (LSTMs)
+tensorflow
